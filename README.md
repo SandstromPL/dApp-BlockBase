@@ -20,7 +20,6 @@ This is a mini decentralized app (DApp) project developed as part of a 7-day Blo
 
 ## 🖼️ UI Preview
 
-> *(Insert screenshot below if needed)*
 
 ![Updated UI](img.png)
 
