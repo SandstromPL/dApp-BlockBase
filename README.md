@@ -1,6 +1,6 @@
 # 💸 Split Expense DApp - BlockBase
 
-This is a mini decentralized app (DApp) project developed as part of a 7-day Blockchain Development Program conducted by an IIT Guwahati club. The original codebase was provided, and we were required to add a few additional features.
+This is a mini decentralized app (DApp) project developed as part of a 7-day Blockchain Development Program conducted by Finance and Economics Club , IIT Guwahati. The original codebase was provided, and we were required to add a few additional features.
 
 ---
 
@@ -28,7 +28,7 @@ This is a mini decentralized app (DApp) project developed as part of a 7-day Blo
 
 ## ✨ Credits
 
-Developed during the **Blockchain Development Program by IIT Guwahati Club**.  
+Developed during the **Blockchain Development Program by Finance and Economics Club , IIT Guwahati**.  
 All base code was provided as part of the program.
 
 ---
