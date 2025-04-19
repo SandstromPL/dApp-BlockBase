@@ -18,7 +18,7 @@ function App() {
   const [expenseLabel, setExpenseLabel] = useState('');  // Description for a new expense
   const [participants, setParticipants] = useState([{ address: '', amountPaid: 0, amountOwed: 0 }]);  // People involved in a new expense
   const [showAddExpense, setShowAddExpense] = useState(false);  // Whether to show the "Add Expense" form
-  const contractAddress = "0x9f3cf4677418a2f089F02eFf495815c107f70251"; // Paste the address recieved from Remix IDE here
+  const contractAddress = process.env.REACT_APP_CONTRACT_ADDRESS; // Paste the address recieved from Remix IDE here
   const [totalUsers, setTotalUsers] = useState(0); // js task // to display total number of users
   const [isEditing, setIsEditing] = useState(false); // solodidity task // to edit name
   const [newName, setNewName] = useState('');
